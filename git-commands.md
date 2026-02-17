@@ -17,4 +17,4 @@
 + git commit -m "message" - save the snapshot of project/repo
 + git status - to monitat the state of repo or working direcotry
 + git log - it use to see the history of commit
-
++ git merge - use to intigrate the changes from seprate branch
