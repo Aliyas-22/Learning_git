@@ -3,3 +3,5 @@ devops is a culture or mindset to collabrate with devlopment and operation team 
 why you are learning devops??
 i'm larning devops because i want to do job 
 earn money..
+what are you learning in devops?
+i'm learning linux , networking , git & github , docker in phase-one..
