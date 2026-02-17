@@ -1,1 +1,6 @@
+HEAD
 another changes 1 
+initial content 
+fix 1 - logging issue
+fix 2 - security pathc
+f5e3a85 (multiple commiting)
