@@ -18,3 +18,5 @@
 + git status - to monitat the state of repo or working direcotry
 + git log - it use to see the history of commit
 + git merge - use to intigrate the changes from seprate branch
++ git rebase - this will take commits from your current branch and replays them on top of anothr branch
+
