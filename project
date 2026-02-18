@@ -1,2 +1,3 @@
 here we will we learn about git revert
 revert is used to safely undo the changes 
+ git revert is safe
