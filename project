@@ -1,3 +1,5 @@
 here we will we learn about git revert
+ HEAD
 revert is used to safely undo the changes 
  git revert is safe
+ parent of 50b66f5 (Y)
