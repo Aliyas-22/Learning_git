@@ -19,4 +19,8 @@
 + git log - it use to see the history of commit
 + git merge - use to intigrate the changes from seprate branch
 + git rebase - this will take commits from your current branch and replays them on top of anothr branch
++ git reset --soft HEAD~1 - it removes the comit ,but keeps the changes staged
++ git reset --mixed head~1 - commits from your current branch and replays them on top of anothr branch
++ git reset --hard head~1 - it delete the commit and make working direcotry clean
++ git revert <commit id> - git revert does not commit that undoes the changes ,keep history safe 
 
