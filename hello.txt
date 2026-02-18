@@ -1,0 +1,1 @@
+Learning new git command which is reset
