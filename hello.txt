@@ -1,1 +1,2 @@
 Learning new git command which is reset
+reset is use to undo changes
